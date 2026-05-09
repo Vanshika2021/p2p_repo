@@ -33,6 +33,7 @@ We fine-tune the competition-required `SmolVLM-500M-Instruct` backbone using QLo
 | Hardware | 1× NVIDIA H100 80GB |
 | Seeds (ensemble) | {42, 7, 17} |
 
+Weights & logs: https://drive.google.com/drive/u/1/folders/1epS_JpchcPya155hKrMfxR1w6OKR1I_8
 ---
 
 ## Results
